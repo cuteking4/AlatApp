@@ -79,7 +79,7 @@ button {
   text-align: center;
   margin-top: 0.4em;
 }
-form input {
+form.otpForm input {
   width: 56px;
   height: 55px;
   outline: none;
